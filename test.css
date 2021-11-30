@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+#openfl-content {
+    background: #000;
+    width: 100%;
+    height: 100%;
+}
+
+@font-face {
+    font-family: 'Nokia Cellphone FC Small';
+    src: url('../flixel/fonts/nokiafc22.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monsterrat';
+    src: url('../flixel/fonts/monsterrat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
